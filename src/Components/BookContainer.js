@@ -10,7 +10,7 @@ function BookContainer() {
                     <BooksList />
                 </div>
                 <div className="col-5">
-                    <h3 className="text-center fw-bold mb-5">Book details</h3>
+                    <h3 className="text-center fw-bold mb-5">Book Details</h3>
                     <Bookdetails />
                 </div>
             </div>
